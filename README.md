@@ -9,7 +9,7 @@
 
 参考了很多资料,收获颇多.
 
-个人理解,所谓**RPC(Remote Procedure Call, 远程过程调用)**主要包含两块:
+个人理解,所谓RPC(Remote Procedure Call, 远程过程调用)主要包含两块:
 
 - 数据传输协议(通信协议)
 
