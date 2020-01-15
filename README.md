@@ -1,4 +1,6 @@
 # 基于java socket手写RPC框架(持续更新)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRaremaa%2Frpc-framework-custom.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRaremaa%2Frpc-framework-custom?ref=badge_shield)
+
 
 ## Tag说明
 
@@ -20,3 +22,6 @@
 ## 可以改进的点
 
 可以改进的点太多了,比如里面的Map的类型都没有使用JUC包中的类,扩展性不够强等等等,也是想通过这个项目方便以后去学习dubbo等开源框架的实现原理,慢慢来吧.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRaremaa%2Frpc-framework-custom.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FRaremaa%2Frpc-framework-custom?ref=badge_large)
